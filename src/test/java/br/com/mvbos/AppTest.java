@@ -1,4 +1,4 @@
-package br.com.mvbos;
+package test.java.br.com.mvbos;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

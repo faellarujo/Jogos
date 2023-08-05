@@ -1,4 +1,4 @@
-package br.com.mvbos;
+package main.java.br.com.mvbos;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package br.com.mvbos.lgj;
+package main.java.br.com.mvbos.lgj;
 
 import java.awt.Graphics;
 
