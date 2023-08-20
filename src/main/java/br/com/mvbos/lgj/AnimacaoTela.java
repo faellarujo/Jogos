@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 
-public class AnimacaoTela extends JFrame {
+public class AnimacaoTela extends JanelaPrincipal {
 	
 	private JPanel tela;
 	private int fps = 1000 / 20; // 50
