@@ -13,11 +13,11 @@ public class Interativo extends JFrame {
 	
 	
 	public void inicia() {
-		Long prxAtulizacao = 0;
+		Long prxAtulizacao = (long) 0;
 		
 		
 		while (jogando) {
-			if (System.currentTimeMillis() >= prxAtualizacao) {
+			if (System.currentTimeMillis() >= prxAtulizacao) {
 				tela.repaint();
 				prxAtulizacao = System.currentTimeMillis() + fps;
 			}
